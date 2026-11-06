@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated output
+gel_result.png
+gel_run.gif
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
